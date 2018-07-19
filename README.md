@@ -1,2 +1,2 @@
 # Spring_Dependency_Injection_Training
-Spring app to train my dependency injection skills
+Spring app to improve my dependency injection skills
