@@ -1,4 +1,4 @@
-package netherwulf.springframework.ditraining.services;
+package netherwulf.springframework.ditraining.springframework.services;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.context.annotation.Profile;

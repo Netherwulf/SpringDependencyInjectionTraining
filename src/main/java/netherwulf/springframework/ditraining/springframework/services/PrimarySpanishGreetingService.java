@@ -1,15 +1,15 @@
-package netherwulf.springframework.ditraining.services;
+package netherwulf.springframework.ditraining.springframework.services;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
 @Service
-@Profile("de")
+@Profile("es")
 @Primary
-public class PrimaryGermanGreetingService implements GreetingService {
+public class PrimarySpanishGreetingService implements GreetingService{
     @Override
     public String sayGreeting() {
-        return "Hallo - das is deutsche greetings!!!";
+        return "Servicio de Saludo Primario!!!";
     }
 }

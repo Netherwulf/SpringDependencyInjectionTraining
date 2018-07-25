@@ -1,6 +1,7 @@
 package netherwulf.springframework.ditraining.controllers;
 
-import netherwulf.springframework.ditraining.services.GreetingServiceImpl;
+import netherwulf.springframework.ditraining.springframework.services.GreetingServiceImpl;
+import netherwulf.springframework.ditraining.springframework.controllers.PropertyInjectedController;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

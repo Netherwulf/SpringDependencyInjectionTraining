@@ -1,4 +1,4 @@
-package netherwulf.springframework.ditraining;
+package netherwulf.springframework.ditraining.springframework;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;

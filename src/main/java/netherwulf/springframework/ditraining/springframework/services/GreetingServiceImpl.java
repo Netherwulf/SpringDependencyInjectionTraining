@@ -1,4 +1,4 @@
-package netherwulf.springframework.ditraining.services;
+package netherwulf.springframework.ditraining.springframework.services;
 
 import org.springframework.stereotype.Service;
 
