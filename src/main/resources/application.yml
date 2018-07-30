@@ -1,0 +1,12 @@
+netherwulf:
+  jms:
+    username: JMS Username
+    password: somepass
+    url: SomeUrl
+
+--- # end of document
+spring:
+  profiles: de
+netherwulf:
+  jms:
+    username: JMS Username $$$ In $$$ German

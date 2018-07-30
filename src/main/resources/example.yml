@@ -1,0 +1,38 @@
+# this is a comment
+
+name: Kamil
+
+names: #Comment
+    - John
+    - Kamil
+    - Adam
+    - Larry
+
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: random town
+
+truth: yes
+
+another_truth: True
+
+more_truth: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it's quote"
+
+colon_string: "My courses: one two three"
+
+include_new_lines: |
+  asdaf asdas asf
+  asdasd asdasd asd
+  asdasd asdasd asdas
+
+ignore_new_lines: >
+  this is
+  just one
+  long string
+
